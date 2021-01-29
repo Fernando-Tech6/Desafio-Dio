@@ -1,0 +1,7 @@
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\bin\Debug\calculaCombustivel.exe.config
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\bin\Debug\calculaCombustivel.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\bin\Debug\calculaCombustivel.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\obj\Debug\calculaCombustivel.csprojAssemblyReference.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\obj\Debug\calculaCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\obj\Debug\calculaCombustivel.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\calculaCombustivel\obj\Debug\calculaCombustivel.pdb

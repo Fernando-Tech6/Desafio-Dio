@@ -1,0 +1,7 @@
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\bin\Debug\qtdAlbumFigurinhas.exe.config
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\bin\Debug\qtdAlbumFigurinhas.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\bin\Debug\qtdAlbumFigurinhas.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\obj\Debug\qtdAlbumFigurinhas.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\obj\Debug\qtdAlbumFigurinhas.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\obj\Debug\qtdAlbumFigurinhas.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\qtdAlbumFigurinhas\obj\Debug\qtdAlbumFigurinhas.csprojAssemblyReference.cache

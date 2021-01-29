@@ -1,0 +1,6 @@
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\bin\Debug\switchTest.exe.config
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\bin\Debug\switchTest.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\bin\Debug\switchTest.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\obj\Debug\switchTest.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\obj\Debug\switchTest.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\switchTest\obj\Debug\switchTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\bin\Debug\escolhaAnimais.exe.config
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\bin\Debug\escolhaAnimais.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\bin\Debug\escolhaAnimais.pdb
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\obj\Debug\escolhaAnimais.csprojAssemblyReference.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\obj\Debug\escolhaAnimais.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\obj\Debug\escolhaAnimais.exe
+C:\Users\ferda\Desktop\Studyspace\Csharp\Desafios-dio-bootcamp\Desafios-Dio-Bootcamp\escolhaAnimais\obj\Debug\escolhaAnimais.pdb
